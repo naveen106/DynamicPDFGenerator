@@ -24,9 +24,15 @@ Run the `PdfGeneratorApplication.java` file to start the project.
 
 To test the API from your localhost, follow these steps:
 
-1. After running the application, access the Swagger-UI by visiting the following URL: `localhost:8080/swagger-ui.html`.
+1. After running the application, access the Swagger-UI by visiting the following URL: 
+ ```
+   localhost:8080/swagger-ui.html
+ ```
 
-2. Alternatively, you can test it using the Postman agent on your local computer by making a POST request to the following URL: `localhost:8080/pdf/generate`.
+2. Alternatively, you can test it using the Postman agent on your local computer by making a POST request to the following URL: 
+ ```
+ localhost:8080/pdf/generate
+ ```
 
 3. Use the provided raw JSON data format as the request body. Here's an example:
 
