@@ -1,5 +1,3 @@
-markdown
-Copy code
 # Dynamic PDF Generator
 
 A simple project that generates a PDF for invoice details provided in a fixed format.
