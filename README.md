@@ -11,7 +11,7 @@ To set up the project, follow these steps:
 Clone the repository on your local computer using the following command:
 
 ```
-   git clone https://github.com/naveen106/DynamicPDFGenerator.git
+git clone https://github.com/naveen106/DynamicPDFGenerator.git
 ```
 
 Alternatively, you can also download the `zip` file of complete project by clicking the Green `<> Code` button dropdown and selecting `Download ZIP`.
